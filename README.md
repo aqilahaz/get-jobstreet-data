@@ -1,3 +1,5 @@
 # get-jobstreet-data
-This scraping is using Selenium and Python
-These codes are used to crawling Jobstreet site to get open vacancy especially in Indonesia
+Scraping vacancy in jobstreet is using Selenium and Python
+
+1. Run get url first, then
+2. Run get_details
